@@ -4247,8 +4247,13 @@ nav ul li a:hover {
     text-align: center;
     color: white;
     text-decoration: none;
+    margin-top: 10px;
 }
 
 #yelpbtn:hover {
     color: yellow;
+}
+
+.border-logo {
+    margin-top: 15px;
 }
