@@ -4189,22 +4189,25 @@ body.lock-position {
 }
 
 .cards {
-    background-color: #1E69B8;
     border-radius: 35px;
     padding-top: 14px;
     padding-bottom: 14px;
-    color: white;
     text-align: center;
-}
-
-.cards:hover {
-    background-color: #8cb6e4;
+    color: white;
 }
 
 .services-padding {
     margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#Services {
+    background-color: #1E69B8;
+}
+
+#contact-span {
+    padding-right: .1px;
 }
 
 .cards h5 {
