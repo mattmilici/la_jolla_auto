@@ -331,7 +331,7 @@ img.radius {
 /* --- site container --- */
 
 .site-container {
-    background: #FFF;
+    background: #F5F5F5;
 }
 
 .site-container.boxed {
@@ -4212,4 +4212,16 @@ body.lock-position {
 
 .cards h5 {
     color: white;
+}
+
+.text-logo-large {
+    font-size: 2em;
+}
+
+.text-logo-small {
+    font-size: 1em;
+}
+
+.toptop {
+    background-color: rgb(235, 232, 232);
 }

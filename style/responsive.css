@@ -97,7 +97,7 @@
         margin-top: 35px;
     }
     .page-margin-top-section {
-        margin-top: 50px;
+        /* margin-top: 50px; */
     }
     .page-padding-top {
         padding-top: 35px;
@@ -410,6 +410,12 @@
 }
 
 @media screen and (max-width:767px) {
+    .text-logo-large {
+        font-size: 1em;
+    }
+    .text-logo1 {
+        font-size: .5em;
+    }
     /* --- site container --- */
     .site-container.boxed {
         max-width: 562px;
