@@ -1022,7 +1022,7 @@ body.overlay .background-overlay {
 }
 
 .row.dark-gray {
-    background: #73767A;
+    background: #1E69B8;
 }
 
 .row:after {
@@ -2026,7 +2026,8 @@ body .type-small .testimonials-list .ornament.empty-circle::before {
 /* --- parallax --- */
 
 .parallax-5 {
-    background-image: url('../images/slider/image_02.jpg');
+    height: 50vh;
+    background-image: url('../images/samples/1920x1200/image_01.jpg');
     background-size: cover;
 }
 
@@ -4155,6 +4156,13 @@ body.lock-position {
 .text-logo {
     color: white;
     text-align: center;
+    font-size: 30px;
+}
+
+.text-logo1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
 }
 
 .img-logo {
@@ -4165,4 +4173,17 @@ body.lock-position {
 #text-white,
 #link-color2 {
     color: #ffffff;
+}
+
+#center-vert {
+    position: relative
+}
+
+#center-vert #textt {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
