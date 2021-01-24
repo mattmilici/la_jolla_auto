@@ -669,7 +669,7 @@ h3 .more {
 .sf-menu a:hover,
 .sf-menu a:visited:hover,
 .sf-menu li.selected a {
-    color: #1E69B8;
+    /* color: #1E69B8; */
 }
 
 body .header-container .menu-container .sf-menu>li:first-child>a {
