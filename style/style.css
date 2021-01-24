@@ -516,6 +516,7 @@ h3 .more {
 }
 
 .header .logo {
+    font-size: .3em;
     width: 370px;
     /*float: left;*/
 }
@@ -4224,4 +4225,9 @@ body.lock-position {
 
 .toptop {
     background-color: rgb(235, 232, 232);
+}
+
+.logotext {
+    color: #1E69B8;
+    font-size: 20px;
 }
