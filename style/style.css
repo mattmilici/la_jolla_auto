@@ -785,8 +785,8 @@ ul.sf-menu li li:first-child li.sfHover:first-child ul {
 .mobile-menu li.selected a,
 .mobile-menu li.selected ul li.selected a,
 .mobile-menu li.selected ul li.selected ul li.selected a {
-    background: #1E69B8;
-    color: #FFF;
+    /* background: #1E69B8;
+    color: #FFF; */
 }
 
 .mobile-menu li ul a {
