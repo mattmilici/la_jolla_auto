@@ -16,7 +16,7 @@ body {
 }
 
 body {
-    background: #FFF;
+    background: #F5F5F5;
     padding: 0px;
     margin: 0px;
     font-family: 'Open Sans';
@@ -271,6 +271,7 @@ img.radius {
 
 .padding-top-70 {
     padding-top: 70px;
+    background-color: #E2E6E7;
 }
 
 .margin-top-0 {
@@ -3194,7 +3195,7 @@ li.template-bullet:before {
     display: block;
     font-size: 14px;
     padding: 17px;
-    border-right: 1px solid #E2E6E7;
+    /* border-right: 1px solid #E2E6E7; */
     color: #A4AAB3;
 }
 
